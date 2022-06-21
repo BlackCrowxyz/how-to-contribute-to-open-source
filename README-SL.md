@@ -105,7 +105,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 
 - [Kako izbrati (in prispevati k) prvemu odprtokodnemu projektu](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [Kako najti prvo napako v Open Source](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [Za začetnike](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [Za začetnike](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Vrnite prijaznost odprtokodnim projektom](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Prvič z odprtokodnimi programi](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [Kako prispevati k odprtokodnim projektom](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
@@ -128,7 +128,7 @@ Povezave, ki neposredno usmerjajo na primerne `issues`, s katerim lahko prispeva
 
 ## Uporabljanje Version Control
 
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git uvod za "napredne začetnike", da bi vam ponudili preprosto strategijo za varno eksperimentiranje z git.
+- [Think Like (a) Git](https://think-like-a-git.net/) - Git uvod za "napredne začetnike", da bi vam ponudili preprosto strategijo za varno eksperimentiranje z git.
 - [Try Git](https://try.github.io/) - Brezplačno se naučite Git v 15 minutah v svojem brskalniku.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Uporaben minimalni nabor ukazov za vsakodnevni Git.
 - [Oh shit, git!](https://ohshitgit.com/) - kako se znebiti pogostih `git` napak, opisanih v preprosti angleščini; glej tudi [Dangit, git!](https://dangitgit.com/) za stran brez kletvic.

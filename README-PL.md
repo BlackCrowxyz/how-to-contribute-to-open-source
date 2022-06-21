@@ -87,7 +87,7 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 - [Poradnik o licencjonowaniu projektów Open Source](https://github.com/YetiForceCompany/guides/blob/master/pl/licenses/Poradnik_o_licencjonowaniu_projektow_open_source_YetiForce_v.1.0.pdf) **[PL]** by [Błażej Pabiszczak](https://www.linkedin.com/in/blazej-pabiszczak-yetiforce/)
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
+- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) by [@kentcdodds](https://github.com/kentcdodds)
 - [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
 - [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
@@ -106,7 +106,7 @@ Linki wyszukiwania które wskazują na kwestie skierowane dla początkujących. 
 ## Używanie kontroli wersji
 - [Wprowadzenie do kontroli wersji](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji) **[PL]**
 - [Poradnik dla chcących poznaćsystem kontroli wersji](https://microgeek.eu/viewtopic.php?t=852) **[PL]**
-- [Think Like (a) Git](http://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
+- [Think Like (a) Git](https://think-like-a-git.net/) - Wstęp do systemu kontroli wersji Git dla ,,zaawansowanych początkujących'', którzy ciąglę napotykają się na  problemy. Głównym celem jest przedstawienie prostej strategii eksperymentowania z gitem. 
 - [Try Git](https://try.github.io/) - Naucz się Gita w 15 minut ze swojej przeglądarki za darmo.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Uzyteczny minimalny zbiór komend potrzebnych do codziennego używania Gita.
 - [Oh shit, git!](https://ohshitgit.com/) - Jak rozwiązać pospolite problemy, które możęsz napotkać podczas używania gita. Zobacz również [Dangit, git!](https://dangitgit.com/) stronę bez przekleństw.
